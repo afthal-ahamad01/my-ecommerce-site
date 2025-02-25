@@ -11,8 +11,18 @@ Welcome to **My E-Commerce Website**! This is a fully responsive online shopping
 - 🌐 Dynamic product details pages
 
 ## 📸 Screenshots
-![Homepage](./screenshots/homepage.png)
-![Product Page](./screenshots/product-page.png)
+
+- 🔥 Home Page
+![Homepage](./screenshots/homePage.png)
+
+- 🛒 Product Page
+![Product Page](./screenshots/product.png)
+
+- 📦 Admin Page
+![Admin Page](./screenshots/admin.png)
+
+- 💳 Cart Page
+![Cart Page](./screenshots/cart.png)
 
 ## 🛠️ Technologies Used
 - **Frontend:** React.js, CSS, JavaScript
